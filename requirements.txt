@@ -1,0 +1,16 @@
+# Core DL stack
+torch>=2.2
+torchvision>=0.17
+
+# Transformers
+transformers==4.44.2
+safetensors>=0.4.1
+huggingface-hub>=0.23
+
+# Plotting / image I/O
+matplotlib>=3.8
+pillow>=10.0
+numpy>=1.24
+
+#misc
+timm
